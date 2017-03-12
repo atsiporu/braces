@@ -1,0 +1,6 @@
+[package]
+name = "braces"
+version = "0.1.0"
+authors = ["Andrey Tsiporukha <Andrey@Tsiporukha.com>"]
+
+[dependencies]
